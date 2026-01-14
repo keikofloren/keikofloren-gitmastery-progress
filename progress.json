@@ -106,5 +106,14 @@
       "too many values to unpack (expected 2)"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1768398207.711582,
+    "completed_at": 1768398213.369267,
+    "comments": [
+      "You have not fetched Alice's changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
