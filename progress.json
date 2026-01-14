@@ -61,5 +61,14 @@
       "You should not be ignoring this/is/very/nested/find_me.txt!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768396453.151318,
+    "completed_at": 1768396463.770459,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
