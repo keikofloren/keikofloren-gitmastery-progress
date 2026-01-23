@@ -381,5 +381,14 @@
     "completed_at": 1769155183.844098,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ff-undo",
+    "started_at": 1769155528.697685,
+    "completed_at": 1769155531.861983,
+    "comments": [
+      "You have successfully undone the merge of branch 'others'."
+    ],
+    "status": "Completed"
   }
 ]
